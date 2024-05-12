@@ -1,1 +1,1 @@
-# Smart-Furniture-Integrated-Wireless-Charging
+# Smart-Series
