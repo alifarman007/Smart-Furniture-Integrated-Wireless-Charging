@@ -30,6 +30,9 @@
 <br />
 <br />
 
+<h2>Have a Look to Buy</h2>
+<b>https://www.isho.com/furniture-series/Smart</b>
+
 
 
 <!--
