@@ -30,6 +30,18 @@
 <br />
 <br />
 
+<h2>PCB Developed</h2>
+
+ <p align="center">
+<img src="https://i.imgur.com/Xh34X9J.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ <p align="center">
+<img src="https://i.imgur.com/5TA6Rwa.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>Have a Look to Buy</h2>
 <b>https://www.isho.com/furniture-series/Smart</b>
 
