@@ -1,4 +1,4 @@
-<h1>Smart Wireless Charging Furniture Furniture</h1>
+<h1>Smart Series</h1>
 
  <p align="center">
 <img src="https://i.imgur.com/PapJwYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
